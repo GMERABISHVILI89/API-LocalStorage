@@ -8,8 +8,8 @@ body {
   background-color: #b8efd3;
   /* background: url('/Images/Georgia\ O\'Keeffe\,\ A\ Sunflower\ from\ Maggie.jpg'); */
 
-  background-size: cover; /* Scale the image to cover the element */
-  background-position: center; /* Center the image */
+  background-size: cover;
+  background-position: center; 
   background-repeat: no-repeat;
 }
 header h2 {
